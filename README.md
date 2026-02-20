@@ -7,4 +7,4 @@ My 📚 research on AI fairness was published in the *[Cambridge Law Journal](ht
 ## What I'm working on
 
 - 🔬 **[LaunchClear](https://github.com/zactheaipm/launchclear)** — An open-source CLI tool helping AI product teams prepare regulatory documentation across jurisdictions (EU AI Act, Singapore AI governance frameworks, and more) to reduce back-and-forth with compliance teams, and get to time-sensitive launches faster
-- 🧠 **TARA AI Safety Program (March 2026)** — Researching the instruction hierarchy problem in AI agents: how models handle conflicting instructions across principal hierarchies
+- 🧠 **[Technical Alignment Research Accelerator](https://www.taraprogram.org/) (March 2026)** — Researching the instruction hierarchy problem in AI agents: how models handle conflicting instructions across principal hierarchies
