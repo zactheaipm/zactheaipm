@@ -1,8 +1,10 @@
 # Hi, I'm Zac 👋
 
-Product Manager for Generative AI Safety at TikTok. I work at the intersection of technical AI systems, law and policy — building safety evaluation and mitigation infrastructure by day, and tutoring the Law & Tech course at the National Uniervsity of Singapore's Faculty of Law by night.
+Product Manager for Generative AI Safety at TikTok. I work at the intersection of technical AI systems, law and policy — building AI safety evaluation and mitigation infrastructure by day, and tutoring the Law & Tech course at the National Uniervsity of Singapore's Faculty of Law by night.
 
 My 📚 research on AI fairness was published in the *[Cambridge Law Journal](https://www.cambridge.org/core/journals/cambridge-law-journal/article/legal-framework-for-artificial-intelligence-fairness-reporting/C2D73FBE9BB74E5D41DDA6BDCA208424)*
+
+I used to work in the Legal Department of the Monetary Authority of Singapore, researching on asset tokenization and crypto regulation. I also taught as a TA for General Assembly's data science bootcamp in Singapore, and was the first instructor in APAC for the NVIDIA Deep Learning Institute.
 
 ## What I'm working on
 
