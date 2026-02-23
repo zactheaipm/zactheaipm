@@ -12,4 +12,4 @@ I used to work in the Legal Department of the Monetary Authority of Singapore wh
 - **Pangora** - AI-mediated deliberation platform that helps groups of people who disagree find genuine consensus. Implements the [Habermas Machine](https://www.science.org/doi/10.1126/science.adq2852) (Tessler, Bakker et al., *Science* 2024) — a system that uses a generative model, Personalized Reward Model (PRM), and Schulze ranked-choice voting to synthesize consensus statements from private opinions.
 - 🧠 **[Technical Alignment Research Accelerator](https://www.taraprogram.org/) (March 2026)** — Researching the instruction hierarchy problem in AI agents: how models handle conflicting instructions across principal hierarchies
 
-All projects I build and release here are personal projects not related to or affiliated with ByteDance ot Tiktok.
+All projects I build and release here are personal projects not related to or affiliated with ByteDance or Tiktok.
