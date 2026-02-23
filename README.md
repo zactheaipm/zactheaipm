@@ -8,7 +8,7 @@ I used to work in the Legal Department of the Monetary Authority of Singapore wh
 
 ## What I'm working on
 
-- 🔬 **[LaunchClear](https://github.com/zactheaipm/launchclear)** — An open-source CLI tool helping AI product teams prepare regulatory documentation across jurisdictions (EU AI Act, Singapore AI governance frameworks, and more) to reduce back-and-forth with compliance teams, and get to time-sensitive launches faster
+- **[LaunchClear](https://github.com/zactheaipm/launchclear)** — An open-source CLI tool helping AI product teams prepare regulatory documentation across jurisdictions (EU AI Act, Singapore AI governance frameworks, and more) to reduce back-and-forth with compliance teams, and get to time-sensitive launches faster
 - **[Pangora](https://github.com/zactheaipm/pangora)** - AI-mediated deliberation platform that helps groups of people who disagree find genuine consensus. Implements the [Habermas Machine](https://www.science.org/doi/10.1126/science.adq2852) (Tessler, Bakker et al., *Science* 2024) — a system that uses a generative model, Personalized Reward Model (PRM), and Schulze ranked-choice voting to synthesize consensus statements from private opinions.
 - 🧠 **[Technical Alignment Research Accelerator](https://www.taraprogram.org/) (Participant in the March 2026 Singapore cohort)** — Researching the instruction hierarchy problem in AI agents: how models handle conflicting instructions across principal hierarchies
 
