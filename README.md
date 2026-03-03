@@ -8,6 +8,7 @@ I used to work in the Legal Department of the Monetary Authority of Singapore wh
 
 ## What I'm working on
 
+- **[AgentGenome](https://github.com/zactheaipm/agentgenome) - trains Sparse Autoencoders (SAEs) on the residual stream of Qwen 3.5-27B — a 64-layer hybrid model that interleaves GatedDeltaNet (linear attention) and standard attention layers — to identify, decompose, and steer five core behavioral traits of agentic language model behavior.
 - **[Pangora](https://github.com/zactheaipm/pangora)** - AI-mediated deliberation platform that helps groups of people who disagree find genuine consensus. Implements the [Habermas Machine](https://www.science.org/doi/10.1126/science.adq2852) (Tessler, Bakker et al., *Science* 2024) — a system that uses a generative model, Personalized Reward Model (PRM), and Schulze ranked-choice voting to synthesize consensus statements from private opinions.
 - 🧠 **[Technical Alignment Research Accelerator](https://www.taraprogram.org/) (Participant in the March 2026 Singapore cohort)** — research interests include the instruction hierarchy problem in AI agents (how models handle conflicting instructions across hierarchies), mechanistic interpretability productionization for safety evals and interventions
 
